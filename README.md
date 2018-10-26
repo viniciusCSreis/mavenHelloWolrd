@@ -7,7 +7,7 @@ Just a simple project using maven archetype
 
 ## How To use
 
-  - If you want to se the docs of my app run:
+  - If you want the docs of my app run:
   ```
   $ cd my-app
   $ mvn clean site dashboard:dashboard
