@@ -11,7 +11,7 @@ Just a simple project using maven archetype
   ```
   $ cd my-app
   $ mvn clean site dashboard:dashboard
-  $ cd my-app/target/site
+  $ cd target/site
   ``` 
    - install my app:
   ```
