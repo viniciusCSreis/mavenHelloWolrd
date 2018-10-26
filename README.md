@@ -1,5 +1,5 @@
 # mavenHelloWolrd
-Just a simple project using maven archetype using the tips of:
+Just a simple project using maven archetype and the tips of:
 + [Maven Tutorial](https://www.devmedia.com.br/introducao-ao-maven/25128)
 
 ## What do you need ?
