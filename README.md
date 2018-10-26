@@ -1,9 +1,9 @@
 # mavenHelloWolrd
-a simple project using maven archetype
+Just a simple project using maven archetype
 
 ## What do you need ?
 
-  - Java version: 1.8.0_181, vendor: Oracle Corporation
+  - Java version: 1.8.0_181
 
 ## How To use
 
