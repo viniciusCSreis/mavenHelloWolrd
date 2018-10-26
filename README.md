@@ -16,7 +16,7 @@ Just a simple project using maven archetype and the tips of:
   - If you want the docs of my app:
   ```
   $ cd my-app
-  $ mvn clean site dashboard:dashboard
+  $ mvn clean site dashboard:dashboard or $ mvn clean site 
   $ cd target/site
   ``` 
    - install my app:
