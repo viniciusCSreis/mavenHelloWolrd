@@ -7,6 +7,11 @@ Just a simple project using maven archetype
 
 ## How To use
 
+  - Compile my app:
+  ```
+    $ mvn compile
+  ```
+  
   - If you want the docs of my app run:
   ```
   $ cd my-app
